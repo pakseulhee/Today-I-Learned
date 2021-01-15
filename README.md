@@ -2,14 +2,14 @@
 - Programmers
   <details><summary>푼 문제</summary>
   
-  **Python**
   
+  **Python**
   - 두 정수 사이의 합
   - 문자열 내림차순으로 배치하기
   - 평균 구하기
 
-  **MySQL**
-  
+
+  **MySQL**  
   - 최댓갓 구하기
   - 모든 레코트 조회하기
    </details>
