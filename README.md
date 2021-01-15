@@ -1,18 +1,5 @@
 ### 📕 Algorithm
-- Programmers
-  <details><summary>푼 문제</summary>
-  
-  
-  **Python**
-  - 두 정수 사이의 합
-  - 문자열 내림차순으로 배치하기
-  - 평균 구하기
-
-
-  **MySQL**  
-  - 최댓갓 구하기
-  - 모든 레코트 조회하기
-   </details>
+- [알고리즘 문제풀이](https://seulhee030.tistory.com/category/python/python%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%AC%B8%EC%A0%9C)
 
 
 ### 📙 Python
@@ -29,9 +16,9 @@
 - x
 
 
-### 📘 개인 프로젝트
+### 📘 project
 - 
 
 
 ### ✔️ ETC
-- Nvidia Driver install and Update
+- 
