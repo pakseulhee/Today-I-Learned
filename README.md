@@ -11,8 +11,8 @@
 
 ### 📒 Java
 - 인프런_자바 프로그래밍 입문 강좌 (renew ver.) 수료
- <details><summary>수료증</summary>
-  
+  <details><summary>수료증</summary>
+   <img width="569" alt="캡처" src="https://user-images.githubusercontent.com/55427048/104747960-80a4ea80-5794-11eb-845f-1a3c44aec882.PNG">
   </details>
 
 
