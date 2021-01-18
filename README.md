@@ -1,0 +1,84 @@
+### 📕 Algorithm
+- [알고리즘 문제풀이](https://seulhee030.tistory.com/category/python/python%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%AC%B8%EC%A0%9C)
+   <details><summary>프로그래머스 Level 1</summary>
+   
+   - 두개 뽑아서 더하기
+   
+   - 모든 레코드 조회하기
+   
+   - 최댓값 구하기
+   
+   - 완주하지 못한 선수
+   
+   - 모의고사
+   
+   - K번째수
+   
+   - 2016년
+   
+   - 가운데 글자 가져오기
+   
+   - 역순 정렬하기
+   
+   - 문자열 내 망므대로 정렬하기
+   
+   - 서울에서 김서방 찾기
+   
+   - 동물의 아이디와 이름
+   
+   - 제일 작은 수 제거하기
+   
+   - 정수 제곱근 판별
+   
+   - 자릿수 더하기
+   
+   - 어린 동물 찾기
+   
+   - 약수의 합
+   
+   - 문자열을 정수로 바꾸기
+   
+   - 소수 찾기
+   
+   - 아픈동물 찾기
+   
+   - 하샤드 수
+   
+   - 여러 기준으로 정렬하기
+   
+   - 이름이 없는 동물의 아이디
+   
+   - 행렬의 덧셈
+   
+   - 이름이 있는 동물의 아이디
+  
+   - 상위 n개 레코드
+   
+  </details>
+
+- 인프런 -> 모두의 알고리즘 -ing
+
+
+### 📙 Python
+- 책 -> 파이썬 라이브러리를 활용한 머신러닝 -ing [참고자료](https://github.com/pakseulhee/introduction_to_ml_with_python)
+
+
+### 📒 Java
+- 인프런 -> 자바 프로그래밍 입문 강좌 (renew ver.) 수료 <details><summary>수료증</summary>
+   <img width="569" alt="캡처" src="https://user-images.githubusercontent.com/55427048/104747960-80a4ea80-5794-11eb-845f-1a3c44aec882.PNG">
+  </details>
+
+
+### 📗 MySQL
+- 
+
+
+### 📘 project
+- 
+
+
+### ✔️ ETC
+- 교육 -> AI 온오프 연계 교육 -ing
+- 교육 -> 헬로! 핀테크 교육 수료 <details><summary>수료증</summary>
+    <img width="279" alt="1" src="https://user-images.githubusercontent.com/55427048/104749424-273dbb00-5796-11eb-8961-8bb427cc4d5a.PNG">
+  </details>
