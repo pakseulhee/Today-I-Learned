@@ -64,7 +64,7 @@
 
 
 ### 📒 Java
-- [inflearn] 자바 프로그래밍 입문 강좌 (renew ver.) 수료 <details><summary>수료증</summary>
+- [inflearn] 자바 프로그래밍 입문 강좌 (renew ver.) <details><summary>Certificate</summary>
    <img width="569" alt="캡처" src="https://user-images.githubusercontent.com/55427048/104747960-80a4ea80-5794-11eb-845f-1a3c44aec882.PNG">
   </details>
 
@@ -78,7 +78,7 @@
 
 
 ### ✔️ ETC
-- [education] AI 온오프 연계 교육 -ing
-- [education] 헬로! 핀테크 교육 수료 <details><summary>수료증</summary>
+- [education] AI 온오프 연계 교육
+- [education] 헬로! 핀테크 교육 <details><summary>Certificate</summary>
     <img width="279" alt="1" src="https://user-images.githubusercontent.com/55427048/104749424-273dbb00-5796-11eb-8961-8bb427cc4d5a.PNG">
   </details>
