@@ -1,18 +1,17 @@
-def solution(n, lost, reserve): 
+ef solution(n, lost, reserve): 
     count = 0
-    for i in range(len(lost)):
-        if lost[i] in reserve:
+    lost = set(lost)
+    reserve = set(reserve)
+    lost1 = list(lost-reserve)
+    reserve1 = list(reserve-lost)
+    
+    for i in range(len(lost1)):
+        if lost1[i]-1 in reserve1:
             count += 1
-            reserve.remove(lost[i])
+            reserve1.remove(lost1[i]-1)
+        elif lost1[i]+1 in reserve1:
+            count += 1
+            reserve1.remove(lost1[i]+1)
             
-        elif lost[i]-1 in reserve:
-            count += 1
-            reserve.remove(lost[i]-1)
-            
-        elif lost[i]+1 in reserve:
-            count += 1
-            reserve.remove(lost[i]+1)
-
-
-    answer = n - (len(lost)-count)
+    answer = n - (len(lost1)-count)
     return answer
