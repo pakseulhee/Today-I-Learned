@@ -11,20 +11,26 @@ public class Bank {
 	}
 	
 	public void createAccount() {
-		System.out.println("------");
+		System.out.println("--------");
 		System.out.println("계좌생성");
-		System.out.println("------");
+		System.out.println("--------");
 		System.out.print("계좌번호:");
 		String id = sc.nextLine();
 		System.out.print("이름:");
 		String name = sc.nextLine();
 		System.out.print("초기입금액:");
-		int money = Integer.parseInt(sc.nextLine()); //1,2,3,4,5,0 중 하나를 입력받게 만든 것이다.
-		accs[accCnt++] = new Account(id,name, money);
+		int money = Integer.parseInt(sc.nextLine());
+		accs[accCnt++] = new Account(id,name,money);
+		System.out.println("결과:계좌가 개설되었습니다.");
 	}
 	
 	public void accsList() {
-		
+		System.out.println("--------");
+		System.out.println("계좌목록");
+		System.out.println("--------");	
+		for(int i=0; i<accCnt; i++) {
+			System.out.println(accs[i].accInfo());
+		}
 	}
 	
 	private Account searchAccById(String id) {
