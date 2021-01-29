@@ -13,7 +13,7 @@ class Derived extends Base{
 //		super(10); 부모 생성자 호출은 처음에 써야 한다.
 	}
 }
-public class IngeritSample3 {
+public class InheritSample3 {
 	public static void main(String[] args) {
 		Derived d = new Derived();
 	}

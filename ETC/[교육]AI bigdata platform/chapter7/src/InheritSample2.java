@@ -37,6 +37,16 @@ public class InheritSample2 {
 
 	public static void main(String[] args) {
 		Child c = new Child(10,20);
+		c.method();
+		
+		Parent p1 = new Child(10,20);
+		Parent p2 = new Parent();
+		
+		System.out.println(p1 instanceof Parent);
+		System.out.println(p1 instanceof Child);
+		System.out.println(p2 instanceof Parent);
+		System.out.println(p2 instanceof Child);
+
 	}
 
 }
