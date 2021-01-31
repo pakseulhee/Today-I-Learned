@@ -1,6 +1,6 @@
 # ✔️ ETC
 - [education] AI 온오프 연계 교육
-    <details><summary>단원</summary>
+    <details><summary>이것이 자바다</summary>
     
     - chapter5 참조타입
         - 데이터 타입분류
