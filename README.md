@@ -95,7 +95,14 @@
    - 동물 수 구하기
    
   </details>
-- [inflearn] 성공적인 코딩 인터뷰
+- [inflearn]<details><summary>성공적인 코딩 인터뷰</summary>
+   
+   - 객체지향 프로그래밍 (OOP) 개념
+   
+   - 빅오 표기법(Big O Notation)
+   
+   - 거품정렬 (bubble sort)
+   </details>
 
 
 ### 📙 Python
