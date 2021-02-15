@@ -97,13 +97,14 @@
 
         </details>
   
-   - [inflearn]성공적인 코딩 인터뷰<details><summary>contents</summary>
+   - [inflearn][성공적인 코딩 인터뷰](https://github.com/pakseulhee/coding-interview.git)
+      <details><summary>contents</summary>
    
       - 객체지향 프로그래밍 (OOP) 개념
 
       - 빅오 표기법(Big O Notation)
 
-      - 거품정렬 (bubble sort)
+      - 정렬 (sort)
       </details>
 
 
