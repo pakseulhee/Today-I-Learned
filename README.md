@@ -1,7 +1,5 @@
 ### 📕 Algorithm
-
-- [Algorithm] 
-
+   - [Algorithm] 
    [study](https://seulhee030.tistory.com/category/python/python%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%AC%B8%EC%A0%9C)
 <details><summary>프로그래머스 Level 1</summary>
    
@@ -98,7 +96,7 @@
    - 동물 수 구하기
    
   </details>
-- [inflearn]<details><summary>성공적인 코딩 인터뷰</summary>
+- [inflearn]성공적인 코딩 인터뷰<details><summary>contents</summary>
    
    - 객체지향 프로그래밍 (OOP) 개념
    
