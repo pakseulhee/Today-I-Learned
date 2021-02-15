@@ -1,5 +1,6 @@
 ### 📕 Algorithm
-- [[Algorithm] study](https://seulhee030.tistory.com/category/python/python%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%AC%B8%EC%A0%9C)
+- [Algorithm] 
+[study](https://seulhee030.tistory.com/category/python/python%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%AC%B8%EC%A0%9C)
 <details><summary>프로그래머스 Level 1</summary>
    
    - 두개 뽑아서 더하기
