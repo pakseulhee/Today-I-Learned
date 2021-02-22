@@ -114,27 +114,35 @@
       </details>
 
 
-### 📙 Python
+
+### 📙 Programming languages
+      
+#### ✔ Python
 - [book] 파이썬 라이브러리를 활용한 머신러닝 [참고자료](https://github.com/pakseulhee/introduction_to_ml_with_python)
 
 
-### 📒 Java
+#### ✔ Java
 - [K-Digital] 이것이 자바다 (신용권 외)
 - [inflearn] 자바 프로그래밍 입문 강좌 (renew ver.) <details><summary>Certificate</summary>
    <img width="569" alt="캡처" src="https://user-images.githubusercontent.com/55427048/104747960-80a4ea80-5794-11eb-845f-1a3c44aec882.PNG">
   </details>
   
-
-
-### 📗 Database
+  
+#### ✔ Database
 - [K-Digital] 이것이 오라클이다 (우재남 외)
 
 
-### 📘 project
+#### ✔ HTML5
+- [K-Digital] HTML5 웹 프로그래밍 입문 (윤인성 외)
+
+
+
+### 📒 project
 - 
 
 
-### ✔️ ETC
+
+### 📗 ETC
 - [education] K-Digital
 - [education] 헬로! 핀테크 <details><summary>Certificate</summary>
     <img width="279" alt="1" src="https://user-images.githubusercontent.com/55427048/104749424-273dbb00-5796-11eb-8961-8bb427cc4d5a.PNG">
