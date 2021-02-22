@@ -1,3 +1,4 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/pakseulhee/Today-I-Learned)
 ### 📕 Algorithm
    - [Algorithm] 
    [solution of Algorithm](https://seulhee030.tistory.com/category/python/python%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%AC%B8%EC%A0%9C)
