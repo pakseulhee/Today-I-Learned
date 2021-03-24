@@ -142,12 +142,21 @@
 
 
 ### 📒 project
-- 
-
+- [K-Digital] Bank web Project
+- [teamproject] context-aware chatbot framework
+ 
 
 
 ### 📗 ETC
-- [education] K-Digital
+- [education] K-Digital 온오프 연계 AI 서비스 구축 교육
 - [education] 헬로! 핀테크 <details><summary>Certificate</summary>
     <img width="279" alt="1" src="https://user-images.githubusercontent.com/55427048/104749424-273dbb00-5796-11eb-8961-8bb427cc4d5a.PNG">
   </details>
+  
+
+
+### 📜 Certification
+- [network] 네트워크 관리사 2급
+- [DB] SQLD
+- [IT] 정보처리기사
+
