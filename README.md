@@ -142,8 +142,8 @@
 
 
 ### 📒 project
-- [K-Digital] Bank web Project
-- [teamproject] context-aware chatbot framework
+- [K-Digital] Bank web Project 2021.01 ~ 2021.03
+- [teamproject] context-aware chatbot framework 2020.01 ~ 2020.08
  
 
 
