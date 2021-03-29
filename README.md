@@ -161,3 +161,9 @@
 - [IT] 정보처리기사
 - [etc] [한국사](https://github.com/pakseulhee/Today-I-Learned/tree/master/%ED%95%9C%EA%B5%AD%EC%82%AC)
 
+### 👔 intern
+- [smart city division] dayliblockchain 2020.08.03 - 2020.08.31
+- [I&C division] 효성ITX 2020.09.07 - 2020.12.24
+- [consulting service division] 한국자산평가 2020.03.29 - ing
+
+
