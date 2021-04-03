@@ -156,7 +156,7 @@
 
 
 ### 📜 Certification
-- [network] [네트워크 관리사 2급](https://seulhee030.tistory.com/category/%E2%98%85%20%EC%9E%90%EA%B2%A9%EC%A6%9D%20%E2%98%85/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B4%80%EB%A6%AC%EC%82%AC%202%EA%B8%89)
+- [network] [네트워크 관리사 2급](https://seulhee030.tistory.com/category/%E2%96%B6%20%EC%9E%90%EA%B2%A9%EC%A6%9D/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B4%80%EB%A6%AC%EC%82%AC%202%EA%B8%89)
 - [DB] SQLD
 - [IT] 정보처리기사
 - [etc] [한국사](https://github.com/pakseulhee/Today-I-Learned/tree/master/%ED%95%9C%EA%B5%AD%EC%82%AC)
