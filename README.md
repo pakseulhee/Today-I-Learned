@@ -2,7 +2,7 @@
 ### 📕 Algorithm
    - [Algorithm] solution of Algorithm
    <details>
-   <summary>프로그래머스 Level 1</summary>
+      <summary>프로그래머스 Level 1</summary>
 
          - 두개 뽑아서 더하기
 
@@ -64,9 +64,9 @@
 
          - 콜라츠 추측
 
-        </details>
+     </details>
 
-        <details><summary>프로그래머스 Level 2</summary>
+     <details><summary>프로그래머스 Level 2</summary>
 
          - 주식가격
 
@@ -104,7 +104,7 @@
 
          - 큰 수 만들기
 
-        </details>
+     </details>
   
    - [inflearn][성공적인 코딩 인터뷰](https://github.com/pakseulhee/coding-interview.git)
       <details><summary>contents</summary>
