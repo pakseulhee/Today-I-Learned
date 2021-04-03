@@ -1,9 +1,8 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/pakseulhee/Today-I-Learned)
 ### 📕 Algorithm
-   - [Algorithm] solution of Algorithm
-   <details>
-      <summary>프로그래머스 Level 1</summary>
-
+   - [Algorithm] [solution of Algorithm](https://seulhee030.tistory.com/category/%E2%96%B6%20Algorithm%20solving)
+      <details><summary>프로그래머스 Level 1</summary>
+   
          - 두개 뽑아서 더하기
 
          - 모든 레코드 조회하기
