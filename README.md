@@ -1,4 +1,15 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/pakseulhee/Today-I-Learned)
+### 📜 Certification
+- [network] [네트워크 관리사 2급](https://seulhee030.tistory.com/category/%E2%96%B6%20%EC%9E%90%EA%B2%A9%EC%A6%9D/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B4%80%EB%A6%AC%EC%82%AC%202%EA%B8%89)
+- [DB] SQLD
+- [IT] [정보처리기사](https://seulhee030.tistory.com/category/%E2%96%B6%20%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC)
+- [etc] [한국사능력검정시험 1급 ing](https://seulhee030.tistory.com/category/%E2%96%B6%20%EC%9E%90%EA%B2%A9%EC%A6%9D/%ED%95%9C%EA%B5%AD%EC%82%AC%EB%8A%A5%EB%A0%A5%EA%B2%80%EC%A0%95%EC%8B%9C%ED%97%98)
+
+### 👔 work
+- [smart city division] dayliblockchain: 2020.08.03 - 2020.08.31
+- [I&C division] 효성ITX: 2020.09.07 - 2020.12.24
+- [consulting service division] [한국자산평가: 2020.03.29 - ing](https://github.com/pakseulhee/Korea-Asset-Pricing)
+
 ### 📕 Algorithm
    - [Algorithm] [solution of Algorithm](https://seulhee030.tistory.com/category/%E2%96%B6%20Algorithm%20solving)
       <details><summary>프로그래머스 Level 1</summary>
@@ -151,18 +162,3 @@
 - [education] 헬로! 핀테크 <details><summary>Certificate</summary>
     <img width="279" alt="1" src="https://user-images.githubusercontent.com/55427048/104749424-273dbb00-5796-11eb-8961-8bb427cc4d5a.PNG">
   </details>
-  
-
-
-### 📜 Certification
-- [network] [네트워크 관리사 2급](https://seulhee030.tistory.com/category/%E2%96%B6%20%EC%9E%90%EA%B2%A9%EC%A6%9D/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B4%80%EB%A6%AC%EC%82%AC%202%EA%B8%89)
-- [DB] SQLD
-- [IT] [정보처리기사](https://seulhee030.tistory.com/category/%E2%96%B6%20%EC%9E%90%EA%B2%A9%EC%A6%9D/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC)
-- [etc] [한국사능력검정시험 1급 ing](https://seulhee030.tistory.com/category/%E2%96%B6%20%EC%9E%90%EA%B2%A9%EC%A6%9D/%ED%95%9C%EA%B5%AD%EC%82%AC%EB%8A%A5%EB%A0%A5%EA%B2%80%EC%A0%95%EC%8B%9C%ED%97%98)
-
-### 👔 intern
-- [smart city division] dayliblockchain: 2020.08.03 - 2020.08.31
-- [I&C division] 효성ITX: 2020.09.07 - 2020.12.24
-- [consulting service division] [한국자산평가: 2020.03.29 - ing](https://github.com/pakseulhee/Korea-Asset-Pricing)
-
-
