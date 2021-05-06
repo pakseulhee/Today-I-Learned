@@ -8,7 +8,8 @@
 ### 👔 work
 - [smart city division] dayliblockchain: 2020.08.03 - 2020.08.31
 - [I&C division] 효성ITX: 2020.09.07 - 2020.12.24
-- [consulting service division] [한국자산평가: 2020.03.29 - ing](https://github.com/pakseulhee/Korea-Asset-Pricing)
+- [consulting service division] [한국자산평가: 2021.03.29 - 2021.05.07](https://github.com/pakseulhee/Korea-Asset-Pricing)
+- [IT division] 무림 본사: 2021.05.17 - ing
 
 ### 📕 Algorithm
    - [Algorithm] [solution of Algorithm](https://seulhee030.tistory.com/category/%E2%96%B6%20Algorithm%20solving)
