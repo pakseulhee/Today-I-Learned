@@ -11,7 +11,32 @@
 - [consulting service division] [한국자산평가: 2021.03.29 - 2021.05.07](https://github.com/pakseulhee/Korea-Asset-Pricing)
 - [System planning division] 무림 본사: 2021.05.17 - ing
 
-### 📕 Algorithm
+
+
+
+### 📙 Programming & SQL
+      
+#### ✔ Python
+- [book] 파이썬 라이브러리를 활용한 머신러닝 [참고자료](https://github.com/pakseulhee/introduction_to_ml_with_python)
+
+
+#### ✔ Java
+- [K-Digital] 이것이 자바다 (신용권 외)
+- [inflearn] 자바 프로그래밍 입문 강좌 (renew ver.) <details><summary>Certificate</summary>
+   <img width="569" alt="캡처" src="https://user-images.githubusercontent.com/55427048/104747960-80a4ea80-5794-11eb-845f-1a3c44aec882.PNG">
+  </details>
+  
+  
+#### ✔ Database
+- [K-Digital] 이것이 오라클이다 (우재남 외)
+
+
+#### ✔ web programming
+- [K-Digital] HTML5 웹 프로그래밍 입문 (윤인성 외)
+- [K-Digital] 자바 웹을 다루는 기술 (이병승 외)
+
+
+#### ✔ Algorithm
    - [Algorithm] [solution of Algorithm](https://seulhee030.tistory.com/category/%E2%96%B6%20Algorithm%20solving)
       <details><summary>프로그래머스 Level 1</summary>
    
@@ -126,29 +151,6 @@
 
       - 정렬 (sort)
       </details>
-
-
-
-### 📙 Programming languages
-      
-#### ✔ Python
-- [book] 파이썬 라이브러리를 활용한 머신러닝 [참고자료](https://github.com/pakseulhee/introduction_to_ml_with_python)
-
-
-#### ✔ Java
-- [K-Digital] 이것이 자바다 (신용권 외)
-- [inflearn] 자바 프로그래밍 입문 강좌 (renew ver.) <details><summary>Certificate</summary>
-   <img width="569" alt="캡처" src="https://user-images.githubusercontent.com/55427048/104747960-80a4ea80-5794-11eb-845f-1a3c44aec882.PNG">
-  </details>
-  
-  
-#### ✔ Database
-- [K-Digital] 이것이 오라클이다 (우재남 외)
-
-
-#### ✔ web programming
-- [K-Digital] HTML5 웹 프로그래밍 입문 (윤인성 외)
-- [K-Digital] 자바 웹을 다루는 기술 (이병승 외)
 
 
 
